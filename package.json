@@ -1,0 +1,22 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulapbpb/Cars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulapbpb/Cars/issues"
+  },
+  "homepage": "https://github.com/paulapbpb/Cars#readme",
+  "dependencies": {
+    "mongoose": "^4.11.12"
+  }
+}
